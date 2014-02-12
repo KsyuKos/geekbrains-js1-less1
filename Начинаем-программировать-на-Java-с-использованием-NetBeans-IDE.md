@@ -1,5 +1,5 @@
 ## Установка программного обеспечения
-1. В первую очередь необходимо установить набор разработчика Java aka Java Development Kit (JDK), установщик которого можно скачать с официально сайта oracle по ссылке: http://www.oracle.com/technetwork/java/javase/downloads/jdk7-downloads-1880260.html  
+1. В первую очередь необходимо установить набор Java разработчика aka Java Development Kit (JDK), установщик которого можно скачать с официально сайта oracle по ссылке: http://www.oracle.com/technetwork/java/javase/downloads/jdk7-downloads-1880260.html  
 JDK включает в себя Java Runtime Environment (JRE) и Java Virtual Machine (JVM), необходимую для запуска Java приложений
 1. После того, как вы установили JDK, можно поставить любую удобную вам среду разработки  
 Я сам пользуюсь и рекомендую NetBeans IDE, установщик которой доступен по ссылке https://netbeans.org/downloads/  
