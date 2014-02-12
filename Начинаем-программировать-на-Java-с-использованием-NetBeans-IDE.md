@@ -25,6 +25,6 @@ _Ближе к концу установки вас спросят, нужен �
 К примеру, можно добавить новый класс:
 
 1. В дереве проекта, доступном в панели слева выбираем пакет и в контекстном меню выбираем пункт New > Java Class  
-![New class menu](https://raw2.github.com/andreiled/mipt-cs-4sem/master/wiki/images/nb_add_new_class.png)
+![New class menu](https://raw2.github.com/andreiled/mipt-cs-4sem/8ebe059af7d489d7b17cf89c4b80ffe6f7cf9d67/wiki/images/nb_add_new_class.png)
 1. В открывшемся диалоговом окне вводим имя класса и нажимаем Finish  
 ![Specify class name](https://raw2.github.com/andreiled/mipt-cs-4sem/master/wiki/images/nb_new_class_dialog.png)
